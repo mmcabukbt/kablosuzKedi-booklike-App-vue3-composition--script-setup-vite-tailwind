@@ -1,0 +1,27 @@
+{
+  "name": "booklike",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite",
+    "opendb": "json-server -w -p 3030 db.json",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "crypto-js": "^4.1.1",
+    "secure-ls": "^1.2.6",
+    "socket.io-client": "^4.4.1",
+    "vue": "^3.2.30",
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.1.0",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.16",
+    "vite": "^2.7.13"
+  }
+}
