@@ -5,6 +5,7 @@
 - Crypto-js ->_PBKDF2
 - vuex-persistedstate + secure-ls
 
+### [Live Demo on Heroku](https://booklike-app-heroku.herokuapp.com/)
 
 
 
